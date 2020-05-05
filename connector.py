@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import re
-from utils import data_path
+#from utils import data_path
 
 
 # def get_comma_entiy(text, entity_list, comma_threshold=5, none_count=0):
